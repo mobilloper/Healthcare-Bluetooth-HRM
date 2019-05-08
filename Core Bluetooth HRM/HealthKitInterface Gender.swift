@@ -1,9 +1,9 @@
-//
+﻿//
 //  HealthKitInterface.swift
 //  Core Bluetooth HRM
 //
-//  Created by Software Testing on 4/13/18.
-//  Copyright © 2018 Andrew Jaffee. All rights reserved.
+//  Created by Mobilloper on 4/13/18.
+//  Copyright © 2018 Mobilloper. All rights reserved.
 //
 
 import Foundation
