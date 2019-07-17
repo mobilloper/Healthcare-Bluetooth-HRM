@@ -8,7 +8,7 @@ I’ll explain the essential concepts behind Bluetooth® technology, plus:
 
 * Show you how getting proficient in Bluetooth® software development presents you with a tremendous career opportunity
 * Remind you that you can’t distribute an app that uses Bluetooth® without determining if you need to go through “qualification”
-* Provide you with an overview of Apple’s Core Bluetooth framework (see also here)
+* Provide you with an overview of Apple’s Core Bluetooth framework
 * Finally, walk you through the development of an iOS app in Swift 4 that monitors a person’s heart rate via Core Bluetooth via a Bluetooth® device.
 
 For the full tutorial, please refer to: 
